@@ -23,6 +23,7 @@ Inspired by the limitless potential of technology, I've embarked on a new academ
 <h2>🌱 Learning Focus:</h2>
 
 <p>As a student, I am committed to continuous learning and improvement. I am currently diving deep into topics such as:
+  
   <br>• JavaScript fundamentals and advanced concepts.</br>
   <br>• Front-end frameworks like React and Angular.</br>
   <br>• Back-end development using Node.js and Express.</br>
