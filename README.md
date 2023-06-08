@@ -23,13 +23,12 @@ Inspired by the limitless potential of technology, I've embarked on a new academ
 <h2>🌱 Learning Focus:</h2>
 
 <p>As a student, I am committed to continuous learning and improvement. I am currently diving deep into topics such as:
-  <div>
   <br>• JavaScript fundamentals and advanced concepts.</br>
   <br>• Front-end frameworks like React and Angular.</br>
   <br>• Back-end development using Node.js and Express.</br>
   <br>• Databases and SQL.</br>
 </p>  
-</div>
+
 <h2>💡 Projects:</h2>
 
 <p>While I don't have any projects to showcase just yet, I am thrilled to announce that I am currently working on my first project, which will be my portfolio website! I am pouring my creativity and coding skills into designing an impressive showcase of my work and achievements.</p>
