@@ -1,9 +1,6 @@
 <!DOCTYPE HTML>
 
 <html>
-  <head>
-    <title>About-Zipphora</title>
-  </head>
   
 <body>
 <header>  
@@ -26,10 +23,11 @@ Inspired by the limitless potential of technology, I've embarked on a new academ
 <h2>🌱 Learning Focus:</h2>
 
 <p>As a student, I am committed to continuous learning and improvement. I am currently diving deep into topics such as:
-• JavaScript fundamentals and advanced concepts.
-• Front-end frameworks like React and Angular.
-• Back-end development using Node.js and Express.
-• Databases and SQL.</p>
+  <br>• JavaScript fundamentals and advanced concepts.</br>
+  <br>• Front-end frameworks like React and Angular.</br>
+  <br>• Back-end development using Node.js and Express.</br>
+  <br>• Databases and SQL.</br>
+</p>  
 
 <h2>💡 Projects:</h2>
 
