@@ -32,7 +32,7 @@ Inspired by the limitless potential of technology, I've embarked on a new academ
 
 <h2>💡 Projects:</h2>
 
-<p>While I don't have any projects to showcase just yet, I am thrilled to announce that I am currently working on my first project, which will be my portfolio website! I am pouring my creativity and coding skills into designing an impressive showcase of my work and achievements.</p>
+<p>While I have four projects to showcase my technical skills, I am thrilled to announce that I am currently working on my fifth project, which will be my portfolio website! I am pouring my creativity and coding skills into designing an impressive showcase of my work and achievements.</p>
 
 <h2>⌨️ Future Goals:</h2>
 
