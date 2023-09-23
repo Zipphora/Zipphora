@@ -9,7 +9,7 @@
     
 <h2>🌟 Welcome to my world, where passion for technology and a love for learning collide!</h2>
 
-<p>My name is Zipphora Rutty. I am a passionate Software Engineering student, dedicated to honing my coding skills and embarking on an exciting journey of learning and growth. Currently, my focus is on building a solid foundation in software development.</p>
+<p>My name is Zipphora. I am a passionate Software Engineering student, dedicated to honing my coding skills and embarking on an exciting journey of learning and growth. Currently, my focus is on building a solid foundation in software development.</p>
 
 <h2>🚀 Skills:</h2>
 
@@ -38,10 +38,6 @@ Inspired by the limitless potential of technology, I've embarked on a new academ
 
 <p>My goal is to become a well-rounded and skilled software engineer. I am eager to collaborate on exciting projects, contribute to open-source initiatives, and apply my knowledge to real-world scenarios. With every line of code I write, I am one step closer to achieving my dreams.</p>
 
-<h2>🙏🏽 Empowering the Future:</h2>
-
-<p>As a black-female software engineering student, I'm on a mission to not only empower myself but others and pave the way for a more diverse and inclusive tech landscape. By connecting with like-minded visionaries, contributing to open-source projects, and embracing continuous growth, I'm determined to create a brighter future where everyone has an equal opportunity to thrive. I believe that our diverse backgrounds fuel innovation and empower us to create impactful solutions together.</p>
-
 <h2>📚 Lifelong Learner:</h2>
 
 <p>Learning never stops for me, and I am actively seeking opportunities to expand my knowledge and gain practical experience. I am open to collaborations, mentorship, and connecting with fellow developers who share the same passion for coding.</p>
@@ -51,12 +47,6 @@ Inspired by the limitless potential of technology, I've embarked on a new academ
 <p>I'm thrilled to share my story with you and invite you to be part of my incredible adventure.
 As I navigate my path, I invite you to witness my growth, celebrate my milestones, and be a part of my journey towards becoming a software engineer.
 Follow me for regular updates on my projects, blog posts, thought-provoking discussions, and more!</p>
-
-<h2>💻 Let's Connect:</h2>
-
-<p>I’d love to connect, learn, and grow together as we embark on this incredible journey in the world of technology. Together, we can inspire, support, and empower each other to thrive in this dynamic field. 
-Hence, please feel free to drop me a message here or connect with me on LinkedIn at https://www.linkedin.com/in/zipphora-rutty/. The options are yours. I'd love to learn about your journey, share experiences, and explore ways we can collaborate.</p>
-
 
 <h2>🫶🏽 Stay Tuned:</h2>
 
