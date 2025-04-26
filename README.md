@@ -18,7 +18,7 @@
 <h2>🎓 Education Background:</h2>
 
 <p>With a Bachelor of Science in Business Management under my belt, I bring a unique perspective to the world of software development. I've gained valuable skills in strategic planning, project management, and problem-solving that have proven instrumental in driving successful business outcomes. 
-Inspired by the limitless potential of technology, I've embarked on a new academic pursuit, currently pursuing my second Bachelor of Science degree in Software Engineering. This fusion of business acumen and technical expertise allows me to approach software development with a holistic understanding of both the technical and business aspects.</p>
+Inspired by the limitless potential of technology, I've embarked on another academic pursuit, currently pursuing my second Bachelor of Science degree in Software Engineering. This fusion of business acumen and technical expertise allows me to approach software development with a holistic understanding of both the technical and business aspects.</p>
 
 <h2>🌱 Learning Focus:</h2>
 
@@ -32,7 +32,7 @@ Inspired by the limitless potential of technology, I've embarked on a new academ
 
 <h2>💡 Projects:</h2>
 
-<p>While I have four projects to showcase my technical skills, I am thrilled to announce that I am currently working on my fifth project, which will be my portfolio website! I am pouring my creativity and coding skills into designing an impressive showcase of my work and achievements.</p>
+<p>While I have several projects to showcase my technical skills, I am thrilled to announce that I am currently working on a project, which is my portfolio website! I am pouring my creativity and coding skills into designing an impressive showcase of my work and achievements.</p>
 
 <h2>⌨️ Future Goals:</h2>
 
